@@ -1,0 +1,46 @@
+.imageColumn {
+    width: 400px !important;
+    /* display: inline-block; */
+    border-radius: 200px !important;
+  }
+  
+  
+  /* Clearfix (clear floats) */
+  .imageRow {
+    display: flex;
+    /* flex-wrap: wrap;  */
+    justify-content: center;
+    margin-top: 50px;
+  }
+
+  .homeImg1, .homeImg2, .homeImg3 {
+    border-radius: 5% !important;
+    position: relative;
+  }
+  
+  .homeImg1 {
+    transform: rotate(-10deg);
+    z-index: 1;
+  }
+  
+  .homeImg2 {
+      margin-top: -10%;
+      z-index: 3;
+  }
+  
+  .homeImg3 {
+    transform: rotate(10deg);
+    z-index: 1;
+}
+
+/* .homeImg4 {
+    margin-left: -150%;
+}
+
+.homeImg5 {
+    margin-left: -200%;
+}
+
+.homeImg6 {
+    margin-left: -250%;
+} */

@@ -1,0 +1,35 @@
+{
+    "name": "estimathon-backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --setupFiles dotenv/config --runInBand --forceExit --coverage",
+        "start": "node index.js",
+        "format": "prettier --write \"./**/*.{js,jsx,json,md}\"",
+        "format:check": "prettier -- \"./**/*.{js,jsx,json,md}\""
+    },
+    "author": "Ashay Parikh",
+    "license": "ISC",
+    "dependencies": {
+        "@google-cloud/storage": "^5.8.3",
+        "algebrite": "^1.4.0",
+        "asciimath-to-latex": "^0.3.2",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "firebase": "^8.0.1",
+        "firebase-admin": "^9.10.0",
+        "fs": "0.0.1-security",
+        "http": "0.0.1-security",
+        "mathjs": "^9.2.0",
+        "nodemon": "^2.0.12",
+        "socket.io": "^3.0.4"
+    },
+    "devDependencies": {
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-plugin-import": "^2.25.2",
+        "prettier": "^2.7.1"
+    }
+}
