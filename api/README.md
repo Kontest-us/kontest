@@ -58,7 +58,8 @@ yarn format
 
 # Deployment
 
-This can can be deployed as a standalone, Node.js application. [Heroku](https://devcenter.heroku.com/articles/deploying-nodejs) is a great service to use for free. 
+This can can be deployed as a standalone, Node.js application. [Heroku](https://devcenter.heroku.com/articles/deploying-nodejs) is a 
+great service to use for free. 
 
 ## Technologies
 

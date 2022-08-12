@@ -13,7 +13,36 @@
 </p>
 
 ## Background
-Kontest.us is an online, contest-hosting platform that MAXIMIZES student collaboration and freedom while MINIMIZING teacher work! Our platform supports two types of games: review games and estimation (similar to an Estimathon) games. This repository contains the frontend and API for our platform. Kontest.us was worked on from January 2021 - August 2021 by [Ashay Parikh](https://ashayp.com/) and [Labdhi Jain](https://www.linkedin.com/in/labdhi-jain). It was made open-source in August 2022, and is open for anyone to use or develop!
+Kontest.us is an online, contest-hosting platform that MAXIMIZES student collaboration and freedom while MINIMIZING teacher work! Our platform supports two types of collaborative learning games: review games and estimation (similar to an Estimathon) games. This repository contains the frontend and API for our platform. Kontest.us was worked on from January 2021 - August 2021 by [Ashay Parikh](https://ashayp.com/) and [Labdhi Jain](https://www.linkedin.com/in/labdhi-jain). It was made open-source in August 2022, and is open for anyone to use or develop!
+
+### Screenshots
+
+<p align="center">
+  <img src="client/src/style/assets/centerKontest.gif" />
+  <br>
+  Students can join a game
+</p>
+
+<p align="center">
+  <img src="client/src/style/assets/kontestPublic.gif" />
+  <br>
+  Teachers can create games
+</p>
+
+
+<p align="center">
+  <img src="client/src/style/assets/leftKontest.gif" />
+  <br>
+  Students can play review games
+</p>
+
+
+<p align="center">
+  <img src="client/src/style/assets/rightKontest.gif" />
+  <br>
+  Math students can play Estimathons/estimation games
+</p>
+
 
 ## Usage
 
