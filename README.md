@@ -1,9 +1,32 @@
-# KontestHub
-It’s simple: an online, contest-hosting platform that MAXIMIZES student collaboration and freedom while MINIMIZING teacher work!
+<h1 align="center">
+  <br/>
+  Kontest.us
+  </br>
+</h1>
 
-## Next Update
-In a few months, we will be adding support for MATH contests. We hope to allow students to use this platform for in-classroom review before tests/quizzes, competitive math contests, and much more!
 
+<p align="center">
+  <a href="#background">Background</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#technologies">Technologies</a> •
+  <a href="#license">License</a>
+</p>
 
-### Developers:
-Ashay Parikh and Labdhi Jain
+## Background
+Kontest.us is an online, contest-hosting platform that MAXIMIZES student collaboration and freedom while MINIMIZING teacher work! Our platform supports two types of games: review games and estimation (similar to an Estimathon) games. This repository contains the frontend and API for our platform. Kontest.us was worked on from January 2021 - August 2021 by [Ashay Parikh](https://ashayp.com/) and [Labdhi Jain](https://www.linkedin.com/in/labdhi-jain). It was made open-source in August 2022, and is open for anyone to use or develop!
+
+## Usage
+
+For local development, please clone this repository:
+```
+git clone https://github.com/Kontest-us/kontest.git
+```
+
+Then, follow the steps in [API: Getting Started](https://github.com/hack4impact-uiuc/7000-languages/blob/dev/api/README.md) and [Client: Getting Started](https://github.com/hack4impact-uiuc/7000-languages/tree/dev/client).
+
+## Technologies
+
+Written in [JavaScript](https://www.javascript.com/) and built with [React](https://reactjs.org/), [Socket.io](https://socket.io/),[Express](https://expressjs.com/), and [Firebase](https://firebase.google.com/). Uses [Prettier](https://prettier.io/).
+
+## License
+[GPLv3](https://github.com/Kontest-us/kontest/blob/master/LICENSE.MD) licensed
