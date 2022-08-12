@@ -26,7 +26,7 @@ Then, follow the steps in [API: Getting Started](https://github.com/Kontest-us/k
 
 ## Technologies
 
-Written in [JavaScript](https://www.javascript.com/) and built with [React](https://reactjs.org/), [Socket.io](https://socket.io/),[Express](https://expressjs.com/), and [Firebase](https://firebase.google.com/). Uses [Prettier](https://prettier.io/).
+Written in [JavaScript](https://www.javascript.com/) and built with [React](https://reactjs.org/), [Socket.io](https://socket.io/), [Express](https://expressjs.com/), and [Firebase](https://firebase.google.com/). Uses [Prettier](https://prettier.io/).
 
 ## License
 [GPLv3](https://github.com/Kontest-us/kontest/blob/master/LICENSE.MD) licensed
