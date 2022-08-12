@@ -1,11 +1,40 @@
-# KontestHub
+# Kontest.us Client
 
-It’s simple: an online, contest-hosting platform that MAXIMIZES student collaboration and freedom while MINIMIZING teacher work!
+This folder contains the frontend client of the application.
 
-## Next Update
+## Getting Started
 
-In a few months, we will be adding support for MATH contests. We hope to allow students to use this platform for in-classroom review before tests/quizzes, competitive math contests, and much more!
+First, make sure you have [Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed.
 
-### Developers:
+Also, make sure you have [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) installed.
 
-Ashay Parikh and Labdhi Jain
+To install all of the required node packages, run:
+
+```bash
+yarn install
+```
+## Run
+
+To set up, first `cd` into this directory. Then,
+
+```bash
+yarn start
+```
+
+Before commiting and pushing code to the remote repository, run the command below for formatting:
+
+```bash
+yarn format
+```
+
+## Deployment
+
+This application can be deployed to any service that hosts frontend applications for free. [Netlify](https://www.netlify.com/) and [Vercel](https://vercel.com/) are great choices. 
+## Technologies
+
+Built with [React](https://reactjs.org/).
+### Code Style
+
+Use [Prettier](https://prettier.io/) and the [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript).
+
+To run, `yarn lint` and `yarn format` in the directory.
