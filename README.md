@@ -22,7 +22,7 @@ For local development, please clone this repository:
 git clone https://github.com/Kontest-us/kontest.git
 ```
 
-Then, follow the steps in [API: Getting Started](https://github.com/hack4impact-uiuc/7000-languages/blob/dev/api/README.md) and [Client: Getting Started](https://github.com/hack4impact-uiuc/7000-languages/tree/dev/client).
+Then, follow the steps in [API: Getting Started](https://github.com/Kontest-us/kontest/blob/master/api/README.md) and [Client: Getting Started](https://github.com/Kontest-us/kontest/blob/master/client/README.md).
 
 ## Technologies
 
